@@ -1,0 +1,15 @@
+.titleTab {
+	background-color: lightblue;
+	height: 100px;
+}
+
+.main-title {
+	text-align: center;
+	color: white;
+	margin-top: 0px;
+	font-size: 75px;
+}
+
+.thing {
+	text-align: center;
+}
